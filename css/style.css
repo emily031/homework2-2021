@@ -1,0 +1,73 @@
+/*Make the h1 heading bigger with a bold font*/
+body{
+    background: #000000;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+/*Make the h1 heading bigger with a bold font*/
+h1{
+    font-size: 64px;
+    text-align: center;
+    padding: 10px;
+}
+
+h2{
+    font-size: 32px;
+    text-shadow: 4px 4px 2px #808080;
+}
+
+p{
+    font-size: 24px;
+}
+
+img{
+    width: 550px;
+    height: auto
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+
+div{
+    height: 150px;
+}
+
+/*adds style to red*/
+#red{
+    background: red;
+    text-align: right;
+}
+
+/*style the blue div*/
+#blue{
+    background: blue;
+    text-align: left;
+}
+
+/*style the yellow div*/
+#yellow{
+    background: yellow;
+    text-align: right;
+    color: black;
+    text-shadow: 4px 4px 2px #c7e2c7;
+}
+
+/*style the green div*/
+#green{
+    background: #008000;
+    text-align: left;
+}
+
+/*style the footer*/
+#footer{
+text-align: center;
+padding-left: 0px;
+padding-right: 10px;
+padding-top: 0px;
+padding-bottom: 10px;
+}
