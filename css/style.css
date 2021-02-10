@@ -59,9 +59,12 @@ div{
     background: yellow;
     text-align: right;
     color: black;
-    text-shadow: 4px 4px 2px #c7e2c7;
+    
 }
 
+#yellow h2{
+    text-shadow: 4px 4px 2px #c7e2c7;
+}
 /*style the green div*/
 #green{
     background: #008000;
@@ -69,7 +72,7 @@ div{
 }
 
 /*style the footer*/
-#footer{
+#footer p{
 text-align: center;
 padding-left: 0px;
 padding-right: 10px;
